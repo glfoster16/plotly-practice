@@ -1,0 +1,176 @@
+,OBJECTID,bldg_num,prg_num,name,address,class,category,x,y,grades,zipcode,type,GlobalID,lon,lat
+0,1,145,145,Alexander Hamilton Elementary,800 Poplar Grove Street,PK - 5, ,0,0,PK - 5,21216,Traditional,1eac393b-2b59-4fc6-bf0a-b8847f223670,-76.6652928,39.2974633
+1,2,50,50,Abbottston Elementary,1300 Gorsuch Avenue,PK - 5, ,0,0,PK - 5,21218,Traditional,eb6aa690-91b1-4498-ba10-73d81a9f2da2,-76.600181,39.324807
+2,3,50,15,Stadium School,1400 Exeter Hall Avenue,6 - 8, ,0,0,6 - 8,21218,Traditional,2048a3c8-897a-4835-8d13-17d04974a0b7,-76.60237096734531,39.320926279394854
+3,4,337,337,Afya Public Charter,2800 Brendan Avenue,6 - 8, ,0,0,6 - 8,21213,Charter,0c2ded91-76b3-48f7-8eed-75a3e0c97404,-76.57246597247322,39.3242944
+4,5,234,234,Arlington Elementary/Middle,3910 Barrington Road,PK - 8, ,0,0,PK - 8,21207,Traditional,0524e286-e59d-41f3-8c48-86ab99eb3ce8,-76.68413345555555,39.331317
+5,6,243,243,Armistead Gardens Elementary/Middle,5001 E Eager Street,PK - 8, ,0,0,PK - 8,21205,Traditional,a1a805f3-50bf-454f-9d74-ad03c5cb3033,-76.5525122026151,39.3049212
+6,7,164,164,Arundel Elementary/Middle,2400 Round Road,PK - 8, ,0,0,PK - 8,21225,Traditional,9fff9dd7-146a-476c-8b73-d80a7c6e1c46,-76.627573,39.251488
+7,8,348,348,Baltimore Leadership School for Young Women,128 W Franklin Street,6 - 12, ,0,0,6 - 12,21201,Charter,a59693a0-fb23-4da2-b474-45c79a69b625,-76.6180622,39.2951912
+8,9,382,382,Baltimore Design School,1500 Barclay Street,6 - 12, ,0,0,6 - 12,21202,Transformation,c60fcf60-bdf6-4e7b-8bce-8e978b01d5e5,-76.610761,39.306993
+9,10,480,480,Baltimore City College,3220 The Alameda,9 - 12, ,0,0,9 - 12,21218,Traditional,3c618b16-7462-41e9-943e-c47b7fcad306,-76.5969539,39.3266677
+10,11,32,336,Baltimore Montessori Public Charter,1600 Guilford Avenue,PK - 8, ,0,0,PK - 8,21202,Charter,969e1934-b16d-4964-9239-db6a60f58970,-76.61251250482063,39.30835865
+11,12,415,415,Baltimore School for the Arts,712 Cathedral Street,9 - 12, ,0,0,9 - 12,21201,Traditional,3a6dca8f-baf9-464c-956f-e693bdf52363,-76.61705818749999,39.298381156249995
+12,13,403,403,Baltimore Polytechnic Institute,1400 W Cold Spring Lane,9 - 12, ,0,0,9 - 12,21209,Traditional,8b77e60b-2fc8-42a4-9acf-7efa87427948,-76.6441673,39.3467672
+13,14,124,124,Bay-Brook Elementary/Middle,2501 Seabury Road,PK - 8, ,0,0,PK - 8,21225,Traditional,8e3002c2-a38a-4f57-9689-83e653b06d96,-76.622645,39.2516
+14,15,54,54,Barclay Elementary/Middle,2900 Barclay Street,PK - 8, ,0,0,PK - 8,21218,Traditional,0c2bdd86-a870-4ab3-a9a5-48321db2688b,-76.611231,39.323595
+15,16,246,246,Beechfield Elementary/Middle,301 S Beechfield Avenue,PK - 8, ,0,0,PK - 8,21229,Traditional,dac7cbd4-5d7f-4797-9e68-f0eb58245adb,-76.69372133041823,39.28038345
+16,17,217,217,Belmont Elementary,1406 N Ellamont Street,PK - 5, ,0,0,PK - 5,21216,Traditional,58aaf528-0128-4269-8ec9-83e20742820c,-76.67074969642857,39.303875625
+17,18,239,239,Benjamin Franklin High at Masonville Cove,1201 Cambria Street,9 - 12, ,0,0,9 - 12,21225,Traditional,6b1e599b-2eae-4fb1-be4b-24220173288d,-76.5936147,39.2328292
+18,19,130,433,Renaissance Academy,1301 McCulloh Street,9 - 12, ,0,0,9 - 12,21217,Traditional,db58d709-5fca-4333-8648-f1dbcd9a4a90,-76.627807,39.302729
+19,20,231,231,Brehms Lane Elementary,3536 Brehms Lane,PK - 5, ,0,0,PK - 5,21213,Charter,87fece2f-f8a1-4d22-bf9d-c2e4953fbcb7,-76.5662941712055,39.3213936
+20,21,130,130,Booker T. Washington Middle,1301 McCulloh Street,6 - 8, ,0,0,6 - 8,21217,Traditional,58a8e05a-a61e-45a2-bbed-cbc36f0bbf59,-76.627807,39.302729
+21,22,251,251,Callaway Elementary,3701 Fernhill Avenue,PK - 5, ,0,0,PK - 5,21215,Traditional,b8335033-585f-4ed0-902b-61c0d3d9e207,-76.67840090901367,39.33629695
+22,23,7,7,Cecil Elementary,2000 Cecil Avenue,PK - 5, ,0,0,PK - 5,21218,Traditional,b79f9610-7df6-41f3-81bc-73bd0cc1353d,-76.60557620142075,39.3134058
+23,24,454,454,Carver Vocational-Technical High,2201 Presstman Street,9 - 12, ,0,0,9 - 12,21216,Traditional,1c978ce3-5dcb-4d96-a055-22bb8eb74db4,-76.65268861076069,39.30445485
+24,25,75,75,Calverton Elementary/Middle,201 North Bend Road,PK - 8, ,0,0,PK - 8,21229,Operator- Restart,762d2035-a255-459e-ad02-5888f208a38f,-76.7076611,39.2841272
+25,26,256,256,Calvin M. Rodwell Elementary,5545 Kennison Avenue,PK - 5, ,0,0,PK - 5,21215,Traditional,0dec713d-7695-4d37-a59b-4c26f732eef1,-76.69944116853806,39.3418793
+26,27,159,159,Cherry Hill Elementary/Middle,801 Bridgeview Road,PK - 8, ,0,0,PK - 8,21225,Traditional,e065e226-5f4a-47b6-ab07-03aed8341ebe,-76.623888,39.248372
+27,28,34,34,Charles Carroll Barrister Elementary,1327 Washington Boulevard,PK - 5, ,0,0,PK - 5,21230,Traditional,e1b7b636-89c7-4793-881d-24e10861db6d,-76.63570330612245,39.28028428571428
+28,29,326,326,City Neighbors Charter K-8,4301 Raspe Avenue,K - 8, ,0,0,K - 8,21206,Charter,fe8b6989-927a-4c54-96fd-be3cbe3eb553,-76.5346120919649,39.349010750000005
+29,30,46,371,Lillie May Carroll Jackson School,900 Woodbourne Ave,5 - 8, ,0,0,5 - 8,21212,Charter,afa9bf2c-e2c3-4b50-83ae-ce3d793d3e8c,-76.6015613,39.3548795
+30,31,97,97,Collington Square Elementary/Middle,1409 N Collington Avenue,PK - 8, ,0,0,PK - 8,21213,Traditional,e894ff0a-f8be-41e9-8da0-0a400ca7ef71,-76.58710579591836,39.30741126530612
+31,32,8,8,City Springs Elementary/Middle,100 S Caroline Street,PK - 8, ,0,0,PK - 8,21231,Charter,4d8e7bc5-b885-4461-87d3-c7df19d79b83,-76.59731436009227,39.29013825
+32,33,307,307,Claremont School,5301 Erdman Avenue,6 - 12, ,0,0,6 - 12,21205,Separate Public Day,45fb7e36-5c4a-4e0a-ad90-cbea22781fae,-76.554089,39.302008
+33,34,27,27,Commodore John Rodgers Elementary/Middle,100 N Chester Street,PK - 8, ,0,0,PK - 8,21231,Traditional - Restart,c7d4447f-3b1d-4567-9f3d-bbdbdaf5df90,-76.587792,39.293607
+34,35,432,432,Coppin Academy,2500 W North Avenue,9 - 12, ,0,0,9 - 12,21216,Charter,a444db41-f7cb-4af8-b0de-397d261510a3,-76.658768,39.3095958
+35,36,207,207,Curtis Bay Elementary/Middle,4301 W Bay Avenue,PK - 8, ,0,0,PK - 8,21225,Traditional,606e1afe-e9ab-4221-b142-5f8a67aeed29,-76.5925299,39.2253126
+36,37,247,247,Cross Country Elementary/Middle,6100 Cross Country Boulevard,PK - 8, ,0,0,PK - 8,21215,Traditional,84eaf380-b38c-400a-8088-be1066fab218,-76.6879279181615,39.3624807
+37,38,39,39,"Dallas F. Nicholas, Sr. Elementary",201 E 21st Street,PK - 5, ,0,0,PK - 5,21218,Traditional,51a97eb9-3e93-47dd-8025-62841f4a9da0,-76.61373,39.313274
+38,39,384,384,Creative City Public Charter,2810 Shirley Avenue,K - 5, ,0,0,K - 5,21215,Charter,cb6459bd-3c50-450e-8397-eb4df0da6152,-76.66513385339769,39.333927
+39,40,201,201,Dickey Hill Elementary/Middle,5025 Dickey Hill Road,PK - 8, ,0,0,PK - 8,21207,Traditional,491a7e02-8cdc-437c-bc54-605b5af15283,-76.70336189518846,39.31128185
+40,41,162,328,Southwest Baltimore Charter,1300 Herkimer Street,K - 8, ,0,0,K - 8,21223,Charter,17c99d9c-e5b8-4071-8e85-3e6ab89bf410,-76.637763,39.28192
+41,42,416,416,Digital Harbor High,1100 Covington Street,9 - 12, ,0,0,9 - 12,21230,Traditional,8aef374c-7294-4c11-80d6-78a3adfa3776,-76.6070774,39.2755076
+42,43,58,58,Dr. Nathan A. Pitts-Ashburton Elementary/Middle,3935 Hilton Road,PK - 8, ,0,0,PK - 8,21215,Traditional,9423ef08-cba0-4fb4-8545-952823ab0f1a,-76.66754595380542,39.330881950000006
+43,44,250,250,"Dr. Bernard Harris, Sr. Elementary",1400 N Caroline Street,PK - 5, ,0,0,PK - 5,21213,Traditional,129f28ea-d963-4159-8366-806badc1edc3,-76.59823,39.306408
+44,45,254,254,"Dr. Martin Luther King, Jr. Elementary/Middle",3750 Greenspring Avenue,PK - 8, ,0,0,PK - 8,21211,Traditional,bdfb6a5d-e7cd-4704-b628-15767620ec0e,-76.65600797524081,39.333292953711094
+45,46,400,400,Edmondson-Westside High,501 N Athol Avenue,9 - 12, ,0,0,9 - 12,21229,Traditional,825a0a71-6748-4862-9cf0-5ba74b8c19fe,-76.68787808669833,39.291832150000005
+46,47,67,67,Edgewood Elementary,1900 Edgewood Street,PK - 5, ,0,0,PK - 5,21216,Traditional,bfc9ae2f-3632-4912-999b-44d81f0a863c,-76.67666788798964,39.3090187
+47,48,62,62,Edgecombe Circle Elementary,2835 Virginia Avenue,PK - 5, ,0,0,PK - 5,21215,Traditional,9d57919b-388b-4629-a669-9b05f9511c1a,-76.66246698463077,39.345160222320445
+48,49,368,368,Elmer A. Henderson: A Johns Hopkins Partnership School,2100 Ashland Avenue,K - 8, ,0,0,K - 8,21205,Contract,6a929522-89e0-4111-9716-4c8d8daa435c,-76.587844,39.300849
+49,50,202,262,Empowerment Academy,851 Braddish Avenue,PK - 8, ,0,0,PK - 8,21216,Charter,bd21e6a0-327d-448c-aa69-8c8b65f48440,-76.6594460644168,39.297424043957285
+50,51,11,11,Eutaw-Marshburn Elementary,1624 Eutaw Place,PK - 5, ,0,0,PK - 5,21217,Traditional,adcec6ac-db32-43e1-8115-5d74698379ad,-76.63040210843397,39.306278899999995
+51,52,82,347,KIPP Harmony Academy,4701 Greenspring Avenue,K - 8, ,0,0,K - 8,21209,Charter,c59e9ebe-8fe9-412e-9569-69c8af1c1dab,-76.658853,39.344532
+52,53,178,429,Vivien T. Thomas Medical Arts Academy,100 N Calhoun Street,9 - 12, ,0,0,9 - 12,21223,Traditional,524020ee-95cb-4832-b773-d8e187647732,-76.63997023592233,39.290214950000006
+53,54,406,406,Forest Park High,3701 Eldorado Avenue,9 - 12, ,0,0,9 - 12,21207,Traditional,ad2ddb47-b992-4348-b6e9-336ee5ca572e,-76.69050739116283,39.331953193612016
+54,55,241,241,Fallstaff Elementary/Middle,3801 Fallstaff Road,PK - 8, ,0,0,PK - 8,21215,Traditional,bc98dd18-cc70-4f36-8b78-4cc2afc43da1,-76.7054524028639,39.3621205
+55,56,45,45,Federal Hill Preparatory Academy,1040 William Street,PK - 5, ,0,0,PK - 5,21230,Traditional,e4d40a80-2206-440c-b085-f2321c403249,-76.61098748979592,39.277814551020406
+56,57,76,76,Francis Scott Key Elementary/Middle,1425 E Fort Avenue,PK - 8, ,0,0,PK - 8,21230,Traditional,3cbae465-9ff0-4d81-91cd-2a2738749d85,-76.5947207,39.2691424
+57,58,206,206,Furley Elementary,5001 Sinclair Lane,PK - 5, ,0,0,PK - 5,21206,Traditional,d6921881-71c0-4cfd-a130-1af71a01593d,-76.54528656809053,39.32063535
+58,59,95,95,Franklin Square Elementary/Middle,1400 W Lexington Street,PK - 8, ,0,0,PK - 8,21223,Traditional,44d4e990-697c-4344-9e4d-e3aab45d0c84,-76.639863,39.290906
+59,60,450,450,Frederick Douglass High,2301 Gwynns Falls Parkway,9 - 12, ,0,0,9 - 12,21217,Traditional,416b7402-76bb-4406-b5a4-80e146027d3b,-76.6551274924178,39.31479805
+60,61,125,125,Furman Templeton Preparatory Academy,1200 Pennsylvania Avenue,PK - 5, ,0,0,PK - 5,21217,Charter,15d40710-00a0-4030-979e-4a51422fab32,-76.62920214624516,39.29904175852397
+61,62,80,260,Frederick Elementary,2501 Frederick Ave,PK - 5, ,0,0,PK - 5,21223,Traditional,84f37b88-9b6b-4eb8-8baa-56140e2d6152,-76.65624605560593,39.28309609371029
+62,63,212,212,Garrett Heights Elementary/Middle,2800 Ailsa Avenue,PK - 8, ,0,0,PK - 8,21214,Traditional,35e75f9f-2dcf-45dc-9a93-d9d7025f4ce0,-76.5691327197433,39.349192200000005
+63,64,157,28,William Pinderhughes Elementary/Middle,701 Gold Street,PK - 8, ,0,0,PK - 8,21217,Traditional,ca61032f-85df-432b-a7b6-3a4a494bb456,-76.640364,39.306696
+64,65,177,177,George W. F. McMechen High,4411 Garrison Boulevard,9 - 12, ,0,0,9 - 12,21215,Separate Public Day,ac3b07ad-db6d-4b52-b28e-77e505f3fd7e,-76.68334309688865,39.3372713
+65,66,22,22,George Washington Elementary,800 Scott Street,PK - 5, ,0,0,PK - 5,21230,Traditional,433df5c2-29d4-4772-b7c7-e62d08dcf421,-76.628845,39.281059
+66,67,107,107,Gilmor Elementary,1311 N Gilmor Street,PK - 5, ,0,0,PK - 5,21217,Traditional,7655caf1-c7f7-443b-bb18-abcf6904a802,-76.64212925199908,39.3041524
+67,68,235,235,Glenmount Elementary/Middle,6211 Walther Avenue,PK - 8, ,0,0,PK - 8,21206,Traditional,6d6c93a1-5006-47e4-b630-03f7f5cfd10c,-76.54350883291882,39.351152254302015
+68,69,240,240,Graceland Park/O'Donnell Heights Elementary/Middle,6300 O'Donnell Street,PK - 8, ,0,0,PK - 8,21224,Traditional,52b39f6c-3581-4d35-a33b-2e26cfc0571b,-76.540363,39.281664
+69,70,377,377,Green Street Academy,125 N Hilton St,6 - 12, ,0,0,6 - 12,21229,Charter,d2d47b85-0d6d-4b46-a18f-c6405de3a38b,-76.67158370986891,39.2880271
+70,71,211,211,Gardenville Elementary,5300 Belair Road,K - 5, ,0,0,K - 5,21206,Traditional,de74e12a-47b0-4566-827b-db95e331397e,-76.55229205,39.3384733
+71,72,214,214,Guilford Elementary/Middle,4520 York Road,PK - 8, ,0,0,PK - 8,21212,Traditional,0bc91497-d2ac-48da-a31a-38898745b3b2,-76.60938135714285,39.34365476530612
+72,73,41,376,City Neighbors High,5609 Sefton Avenue,9 - 12, ,0,0,9 - 12,21214,Charter,df82394a-9875-4b92-bd69-521953ad01df,-76.55488085159496,39.35055045
+73,74,41,346,City Neighbors Hamilton,5609 Sefton Avenue,K - 8, ,0,0,K - 8,21214,Charter,6bbcc938-f8af-4b7a-a1d4-ea627710b70e,-76.55488085159496,39.35055045
+74,75,213,213,Govans Elementary,5801 York Road,PK - 5, ,0,0,PK - 5,21212,Charter,6fe31e0c-3100-47d5-aa58-39a80199e290,-76.60795729532992,39.3606865
+75,76,60,60,Gwynns Falls Elementary,2700 Gwynns Falls Parkway,PK - 5, ,0,0,PK - 5,21216,Traditional,a2c3d917-6d23-45c3-a3d9-e59db9a54d20,-76.66298155128356,39.3152747
+76,77,236,236,Hamilton Elementary/Middle,6101 Old Harford Road,PK - 8, ,0,0,PK - 8,21214,Traditional,40a44497-753d-4b83-84fc-1a5f2393cad6,-76.5574476027245,39.359828750000005
+77,78,413,178,Excel Academy at Francis M. Wood High,1001 W Saratoga Street,6 - 12, ,0,0,6-12,21223,Alternative,02a92d39-fe3e-4f13-96f7-ab477c7f23f2,-76.634151,39.292378
+78,79,55,55,Hampden Elementary/Middle,3608 Chestnut Avenue,PK - 8, ,0,0,PK - 8,21211,Traditional,bab421fb-27ee-4b40-90de-25283f868e79,-76.6295480612245,39.331788714285715
+79,80,85,85,Fort Worthington Elementary/Middle,2710 E Hoffman Street,K - 8, ,0,0,K - 8,21213,Traditional,02ccb07d-67f9-4561-8d5c-f3fac7eabaaf,-76.5784285819154,39.30736985
+80,81,78,430,Augusta Fells Savage Institute of Visual Arts,1500 Harlem Avenue,9 - 12, ,0,0,9 - 12,21217,Traditional,4144af75-25ea-440f-a3e0-0c4596bcd3a6,-76.6414358,39.2971713
+81,82,47,47,Hampstead Hill Academy,500 S Linwood Avenue,PK - 8, ,0,0,PK - 8,21224,Charter,ba3ac14b-cb09-4274-8fd4-9a1637965c0e,-76.575909,39.286174
+82,83,35,35,Harlem Park Elementary/Middle,1401 W Lafayette Avenue,PK - 8, ,0,0,PK - 8,21217,Traditional,2938a992-8620-4902-9a01-eb27a391eac5,-76.640301,39.298919
+83,84,37,37,Harford Heights Elementary,1919 N Broadway,PK - 5, ,0,0,PK - 5,21213,Traditional,c3b7ecc1-814a-4060-b605-fbd82e23fac2,-76.59397123125672,39.31337035
+84,85,210,210,Hazelwood Elementary/Middle,4517 Hazelwood Avenue,K - 8, ,0,0,K - 8,21206,Traditional,5b6af234-f1e1-4641-8237-c9a5dbf22257,-76.53885693293557,39.3384187
+85,86,215,215,Highlandtown Elementary/Middle #215,3223 E Pratt Street,PK - 8, ,0,0,PK - 8,21224,Traditional,819542be-aad5-46d5-af40-670bfbb00684,-76.57076154651162,39.29022055813954
+86,87,237,237,Highlandtown Elementary/Middle #237,231 S Eaton Street,PK - 8, ,0,0,PK - 8,21224,Traditional,ec9f5e1e-ca1a-4f88-8609-686557a77293,-76.564476,39.289152
+87,88,138,379,Roots and Branches School,1807 Harlem Avenue,K - 5, ,0,0,K - 5,21217,Charter,07f43a30-5ee9-4f99-be2a-06804ff36607,-76.64675515013462,39.29597485
+88,89,79,333,Independence School Local I,1300 W 36th Street,9 - 12, ,0,0,9 - 12,21216,Charter,7675d622-36f5-47b3-a297-e59ff07affc2,-76.637712,39.330436
+89,90,229,229,Holabird Elementary/Middle,1500 Imla Street,PK - 8, ,0,0,PK - 8,21224,Traditional,0642421b-c650-4e9e-bf8c-e39ad5a9ad6e,-76.53864121209615,39.275967449999996
+90,91,10,10,James McHenry Elementary/Middle,31 S Schroeder Street,PK - 8, ,0,0,PK - 8,21223,Traditional,1e972db4-4bf9-4ca8-aff4-c31812872ec1,-76.6335769,39.2881301
+91,92,61,61,Dorothy I. Height Elementary School,2011 Linden Avenue,PK - 5, ,0,0,PK - 5,21217,Traditional,f37e360c-f054-4683-bb23-c75f0a74351f,-76.632736,39.311046
+92,93,144,144,James Mosher Elementary,2400 W Mosher Street,PK - 5, ,0,0,PK - 5,21216,Traditional,505bea72-ce92-49f6-be7c-74e162951946,-76.610759,39.2908816
+93,94,451,345,Joseph C. Briscoe Academy,900 Druid Hill Avenue,6 - 12, ,0,0,6 - 12,21201,Separate Public Day,78dd3ea0-3841-44c5-b9b3-0e12d9d299bf,-76.624398,39.298523
+94,95,21,21,Hilton Elementary,3301 Carlisle Avenue,PK - 5, ,0,0,PK - 5,21216,Traditional,e25b4e9a-6301-47d7-b547-0f1a866985d0,-76.673138,39.319365
+95,96,16,16,Johnston Square Elementary,1101 Valley Street,PK - 5, ,0,0,PK - 5,21202,Traditional,f16dc68a-8e4e-417c-93c2-4dc4b3953727,-76.604893,39.30296
+96,97,228,228,John Ruhrah Elementary/Middle,6820 Fait Avenue,PK - 8, ,0,0,PK - 8,21224,Traditional,fc73aff5-3976-442a-972a-ee8d71b55800,-76.53072281635531,39.28582355
+97,98,86,86,Lakewood Elementary,2625 Federal Street,PK - K, ,0,0,PK - K,21213,Traditional,0574976b-441e-401e-a15b-b8146bb9953b,-76.580578,39.308648
+98,99,40,341,The Reach! Partnership School,2801 Saint Lo Drive,9 - 12, ,0,0,9 - 12,21213,Transformation,f0f58fe4-9adb-4bf2-9cba-85bc8ff818f7,-76.58533422698528,39.31759755
+99,100,64,64,Liberty Elementary,3901 Maine Avenue,PK - 5, ,0,0,PK - 5,21207,Traditional,cacc0da6-7e40-4cd4-9359-a614474af3d6,-76.6829186,39.3260591
+100,101,12,12,Lakeland Elementary/Middle,2921 Stranden Rd,PK - 8, ,0,0,PK - 8,21230,Traditional,dae3c30d-5ae2-47aa-ba33-36a0b0fab931,-76.64513359767479,39.254294923767645
+101,102,313,313,Lois T. Murray Elementary/Middle,1600 Arlington Avenue,PK - 8, ,0,0,PK - 8,21239,Separate Public Day -Contract,5245fea0-5ba9-458c-94f1-bc1035f3509e,-76.587524,39.346985
+102,103,245,245,Leith Walk Elementary/Middle,5915 Glennor Road,PK - 8, ,0,0,PK - 8,21239,Traditional,19ada6b1-4424-4d0f-bb54-fa3eccdc9eb8,-76.59256165502799,39.364926154773514
+103,104,261,261,Lockerman Bundy Elementary,301 N Pulaski Street,PK - 5, ,0,0,PK - 5,21223,Traditional,21bd010c-ad47-48b0-b0ae-14e2922605fc,-76.65021,39.292056
+104,105,88,88,Wildwood Elementary/Middle School,621 Wildwood Parkway,PK - 8, ,0,0,PK - 8,21229,Traditional,c3f78b35-2680-46c1-b709-f74e35849abd,-76.68379525990254,39.294235411040916
+105,106,57,323,The Crossroads School,802 S Caroline Street,6 - 8, ,0,0,6 - 8,21231,Charter,0553eb80-cb3b-482b-80a2-fd359a1306aa,-76.59666187755103,39.282262836734695
+106,107,150,150,Mary Ann Winterling Elementary at Bentalou,220 N Bentalou Street,PK - 5, ,0,0,PK - 5,21223,Traditional,ed751c09-32c4-4b21-a150-43b90d5ade12,-76.6537600858437,39.29168835
+107,108,53,53,Margaret Brent Elementary/Middle,100 E 26th Street,PK - 8, ,0,0,PK - 8,21218,Traditional,7d8219c8-d008-4048-bb29-5c0b944046fc,-76.6162924,39.3193869
+108,109,204,204,Mary E. Rodman Elementary,201 North Bend Road,PK - 5, ,0,0,PK - 5,21229,Traditional,7f985c2d-c47c-487f-ba70-fb9827c74073,-76.7076611,39.2841272
+109,110,335,335,Baltimore International Academy,4410 Frankford Avenue,K - 8, ,0,0,K - 8,21206,Charter,750460c7-9aeb-4ae1-8f52-3e135cde46fa,-76.54943440880821,39.33611038018423
+110,111,203,203,Maree G. Farring Elementary/Middle,300 Pontiac Avenue,PK - 8, ,0,0,PK - 8,21225,Traditional,dd50f93c-be3d-4555-9340-563074fbd327,-76.6075725,39.236724
+111,112,410,410,Mergenthaler Vocational-Technical High,3500 Hillen Road,9 - 12, ,0,0,9 - 12,21218,Traditional,2911aa51-f83b-4602-bc68-28c4999d5b8a,-76.58872,39.335656
+112,113,29,29,Matthew A. Henson Elementary,1600 N Payson Street,PK - 5, ,0,0,PK - 5,21217,Traditional,99bd333f-ecd9-4568-add1-50a8f3861385,-76.649849,39.306677
+113,114,249,249,Medfield Heights Elementary,4300 Buchanan Avenue,PK - 5, ,0,0,PK - 5,21211,Traditional,5eb4249e-c656-4148-8fab-dd398c23d190,-76.64270257903601,39.3409674
+114,115,381,381,Monarch Academy Public Charter,2525 Kirk Avenue,K - 8, ,0,0,K - 8,21218,Charter,cc5f9713-7321-4359-83f1-a9c395865220,-76.60017695918367,39.31996920408163
+115,116,44,44,Montebello Elementary/Middle,2040 E 32nd Street,PK - 8, ,0,0,PK - 8,21218,Traditional,9a9911b0-e737-4878-bb88-bf76a9563f18,-76.5850412125179,39.3280556
+116,117,66,66,Mount Royal Elementary/Middle,121 McMechen Street,K - 8, ,0,0,K - 8,21217,Traditional,7295d78f-cde1-433b-a65b-92523ba2fb81,-76.6249056122449,39.30917067346939
+117,118,220,220,Morrell Park Elementary/Middle,2601 Tolley Street,PK - 8, ,0,0,PK - 8,21230,Traditional,8b97e1af-30e2-4e58-94e7-b75ad50c8320,-76.65085621329689,39.2629187
+118,119,221,221,The Mount Washington School,1801 Sulgrave Avenue,K - 8, ,0,0,K-8,21209,Traditional,01246912-69cb-46a4-9da4-8ecf89c04ffc,-76.654681,39.366135
+119,120,105,105,Moravia Park Elementary,6201 Frankford Avenue,PK - 5, ,0,0,PK - 5,21206,Traditional,6772c6f5-a78d-4d3f-ba0a-71870a087b05,-76.54003093386191,39.31889570728869
+120,121,322,322,New Song Academy,1530 Presstman Street,PK - 8, ,0,0,PK - 8,21217,New Schools Initiative,9b863c9f-5979-4adf-991b-fea12dd44dd4,-76.64221179591837,39.305527326530616
+121,122,321,321,Midtown Academy,1398 W Mount Royal Avenue,K - 8, ,0,0,K - 8,21217,Charter,bc0a48d0-ff7c-451d-bb23-09792414042c,-76.62160750405486,39.30850016209584
+122,123,402,419,Reginald F. Lewis High,6401 Pioneer Dr,9 - 12, ,0,0,9 - 12,21214,Traditional,27cf0217-f90c-431d-aa84-68291128ef2b,-76.57218,39.364826
+123,124,330,330,Northwood Appold Community Academy,4417 Loch Raven Boulevard,K - 5, ,0,0,K - 5,21218,Charter,19b25d47-4ab1-45d2-9708-edb5ade1d3b5,-76.59176737577204,39.34569475
+124,125,81,81,North Bend Elementary/Middle,181 North Bend Road,PK - 8, ,0,0,PK - 8,21229,Traditional,5e2b8e11-585a-43c5-b24a-f20ddc88edc9,-76.70552608849661,39.282343306467894
+125,126,402,413,Achievement Academy at Harbor City High,2201 Pinewood Dr,9 - 12, ,0,0,9 - 12,21214,Alternative,10b55a99-b577-4651-8215-efde75caf8fe,-76.649533,39.319732
+126,127,405,405,Patterson High,100 Kane Street,9 - 12, ,0,0,9 - 12,21224,Traditional,d062b2a7-4797-4a2e-8f8d-d4abbc8cf3b4,-76.53896685476778,39.29249835
+127,128,327,327,Patterson Park Public Charter,27 N Lakewood Avenue,PK - 8*, ,0,0,PK - 8*,21224,Charter,12a9ca50-6fbe-40eb-85cf-fa7478a9fc80,-76.57898197959184,39.292486387755105
+128,129,133,421,National Academy Foundation,540 N. Caroline Street,6 - 12, ,0,0,6 - 12,21205,Traditional,6480c879-6b24-42af-b960-e69e9542f65d,-76.59759731022457,39.29659230352894
+129,130,414,414,Paul Laurence Dunbar High,1400 Orleans Street,9 - 12, ,0,0,9 - 12,21231,Traditional,b68ab149-3f05-4c5a-978c-1f6422660f6d,-76.5987128,39.2952989
+130,131,242,242,Northwood Elementary,5201 Loch Raven Boulevard,PK - 5, ,0,0,PK - 5,21239,Traditional,7e4f89fc-7a6f-4ddc-b72b-054315262529,-76.589879,39.35332
+131,132,56,427,Academy for College and Career Exploration,1300 W 36th St,6 - 12, ,0,0,6 - 12,21211,Traditional,215f178b-37b9-412e-8e2a-690992ffc792,-76.637712,39.330436
+132,133,223,223,Pimlico Elementary/Middle,4849 Pimlico Road,PK - 8, ,0,0,PK - 8,21215,Traditional,3144713b-45ce-4e99-ba81-f2becc2dcba6,-76.66757892465986,39.3477994
+133,134,93,349,NACA Freedom and Democracy Academy II,2500 E Northern Parkway,6 - 12, ,0,0,6 - 12,21214,Transformation,d206a04e-e719-478c-8314-55867f481b58,-76.56057766049605,39.3667578
+134,135,233,233,Roland Park Elementary/Middle,5207 Roland Avenue,PK - 8, ,0,0,PK - 8,21210,Traditional,55a45b03-0af0-4a71-ad47-1a591dae192e,-76.63381685927718,39.35740925
+135,136,63,63,Rosemont Elementary/Middle,2777 Presstman Street,PK - 8, ,0,0,PK - 8,21216,Charter,2f868405-584d-4aa3-8a58-708994c43e3f,-76.66267610219877,39.304325750000004
+136,137,122,122,The Historic Samuel Coleridge-Taylor Elementary,507 W Preston Street,PK - 5, ,0,0,PK - 5,21201,Traditional,55ba870d-723b-4deb-be3b-b5f8894846cd,-76.62571015422674,39.29943754873191
+137,138,142,142,Robert W. Coleman Elementary,2400 Windsor Avenue,PK - 5, ,0,0,PK - 5,21216,Traditional,627b8458-00dc-4390-9e89-51c99ee3241b,-76.65544012720528,39.312409631658575
+138,139,248,248,Sinclair Lane Elementary,3880 Sinclair Lane,PK - 5, ,0,0,PK - 5,21213,Traditional,fd6eda9f-0448-4552-a949-6efb13d0f5ae,-76.56062074555497,39.315115000000006
+139,140,73,73,Sarah M. Roach Elementary,3434 Old Frederick Road,PK - 5, ,0,0,PK - 5,21229,Traditional,984b3ea8-a7a4-4b80-86be-cf0f9344f7ef,-76.67458223972933,39.282694449999994
+140,141,314,314,Sharp-Leadenhall Elementary,150 W West Street,K - 5, ,0,0,K - 5,21230,Separate Public Day,fe10b0e2-f507-4fa4-91d0-ddc35d23c36c,-76.61885200528134,39.27654285
+141,142,4,4,Steuart Hill Academic Academy,30 S Gilmor Street,PK - 5, ,0,0,PK - 5,21223,Traditional,90e8d20e-1149-4d02-957c-7c2e1f32013e,-76.64221516005556,39.28712640693595
+142,143,181,422,New Era Academy,2700 Seamon Avenue,6 - 12, ,0,0,6 - 12,21225,Traditional,c6e94d09-51cf-42df-ab78-cbff4a36f566,-76.62077656192488,39.25361812801161
+143,144,13,13,Tench Tilghman Elementary/Middle,600 N Patterson Park Avenue,PK - 8, ,0,0,PK - 8,21205,Traditional,abe7c424-072f-438a-81ae-2a32e507b559,-76.585195,39.297745
+144,145,232,232,Thomas Jefferson Elementary/Middle,605 Dryden Drive,PK - 8, ,0,0,PK - 8,21229,Traditional,ab4d8637-eae2-4e53-9fa1-be10149be8d8,-76.69720697204002,39.29536485
+145,146,373,373,Tunbridge Public Charter School,5504 York Road,PK - 8, ,0,0,PK - 8,21212,Charter,74c79357-3816-472f-8644-864405829224,-76.610081,39.35696046938776
+146,147,226,226,Violetville Elementary/Middle,1207 Pine Heights Avenue,PK - 8, ,0,0,PK - 8,21229,Traditional,75fab8f1-cf86-42f4-838c-6c2b303d8d32,-76.673635,39.2670944
+147,148,411,364,Bluford Drew Jemison STEM Academy West,1500 Harlem Avenue,6 - 12, ,0,0,6 - 12,21217,Traditional,d6cbbbd9-fec6-4159-b6b1-97e52145ea38,-76.6414358,39.2971713
+148,149,134,134,Walter P. Carter Elementary/Middle,820 E 43rd Street,PK - 8, ,0,0,PK - 8,21212,Traditional,0df8437d-f351-4927-8a06-23c5859bfcbe,-76.60461885321531,39.34242814968108
+149,150,51,51,Waverly Elementary/Middle,3400 Ellerslie Avenue,PK - 8, ,0,0,PK - 8,21218,Traditional,c8a2288b-20b3-4ebb-bd07-c1c31cb48cde,-76.603711,39.330718
+150,151,407,407,Western High,4600 Falls Road,9 - 12, ,0,0,9 - 12,21209,Traditional,f9257743-3018-44e7-95ae-3690fff2e163,-76.642172,39.348965
+151,152,225,225,Westport Academy,2401 Nevada Street,PK - 8, ,0,0,PK - 8,21230,Traditional,088efed0-76aa-48aa-bf7e-2aeec4de777f,-76.63764234545934,39.262117849999996
+152,153,79,325,ConneXions: A Community Based Arts School,2801 N Dukeland Street,6 - 12, ,0,0,6 - 12,21216,Charter,3d938680-4d71-4421-843f-be3217b03c4c,-76.66518824178094,39.32172070744879
+153,154,83,83,William Paca Elementary,200 N Lakewood Avenue,PK - 5, ,0,0,PK - 5,21224,Traditional,f24b5998-f849-4c05-8728-9425267710d0,-76.579301,39.294582
+154,155,301,301,William S. Baer School,2001 N Warwick Avenue,PK - 12, ,0,0,PK - 12,21216,Separate Public Day,b1d79196-d051-4533-ba85-230b4cad0b2f,-76.65664466256592,39.31087545
+155,156,87,87,Windsor Hills Elementary/Middle,4001 Alto Road,PK - 8, ,0,0,PK - 8,21216,Traditional,b51c5d05-bc2f-4263-9fc3-0615a7d68c4a,-76.6831244,39.3165217
+156,157,209,375,Baltimore Collegiate School for Boys,900 Woodbourne Avenue,4 - 7, ,0,0,4 - 8,21212,Charter,cdc5f6b6-3eba-4fb4-bc36-8137f73e403d,-76.6015613,39.3548795
+157,158,209,357,Banneker Blake Academy for Arts and Sciences,1101 Winston Ave,6 - 7, ,0,0,6 - 8,21212,Charter,9965d86f-d13e-435b-a06f-5358554c201b,-76.60045509114839,39.348700949999994
+158,159,23,23,Wolfe Street Academy,245 S Wolfe Street,PK - 5, ,0,0,PK - 5,21231,Charter,27376759-7316-4943-b8b1-5cafb620f313,-76.5901957755102,39.28866502040816
+159,160,205,205,Woodhome Elementary/Middle,7300 Moyer Avenue,PK - 8, ,0,0,PK - 8,21234,Traditional,20b8dd71-1e33-4fae-8aef-49e6f5be448a,-76.54117240246697,39.3666777
+160,161,219,219,Yorkwood Elementary,5931 Yorkwood Road,PK - 5, ,0,0,PK - 5,21239,Traditional,0b8bca16-1a67-4fe5-8447-79f571e2ead2,-76.58392194277046,39.36272066672285
+161,162,79,362,Bard Early College High School Baltimore,2801 N Dukeland Street,9 - 12, ,0,0,9 - 12,21216,Contract,ea7db854-770c-4520-8343-bcd51787dcd9,-76.66518824178094,39.32172070744879
+162,163,84,84,Thomas Johnson Elementary/Middle,100 E Heath Street,PK - 8, ,0,0,PK - 8,21230,Traditional,1c8504e9-79c5-4f5e-ac2b-b8f2080de3d3,-76.611426,39.270706
+163,164,332,332,The Green School of Baltimore,2851 Kentucky Avenue,K - 5, ,0,0,K - 5,21213,Charter,cb809240-bc30-4512-b021-0796e9a55849,-76.57185854352879,39.3242597
+164,165,170,374,Vanguard Collegiate Middle,5000 Truesdale Avenue,6 - 8, ,0,0,6 - 8,21206,Traditional,deb14b2d-f9b7-4b56-a9da-a47efe96a318,-76.546263,39.318566
+165,166,0,303,Home and Hospital Program,2000 Edgewood Street,K - 12, ,0,0,K - 12,21216,Alternative,6b014243-0ee2-4569-a872-54d16a80c689,-76.6762021,39.3105339
+166,167,0,734,Elementary/Middle Alternative Program,1500 Harlem Avenue,K - 8, ,0,0,K - 8,21217,Alternative,f815e25d-1988-40d1-ad93-aa13b2b9413b,-76.6414358,39.2971713
+167,168,0,854,Career Academy,101 W 24th St,11 - 12, ,0,0,11 - 12,21218,Alternative,325a8e3e-6c01-4fce-9b98-34c01c096693,-76.618425,39.316209
+168,169,0,855,Success Academy,2201 Pinewood Ave,9 - 12, ,0,0,9 - 12,21214,Alternative,868e9627-c625-43d9-acc2-44c51402f543,-76.570969,39.366324
+169,170,0,858,Youth Opportunity,1510 W Lafayette Ave,9 - 12, ,0,0,9 - 12,21217,Alternative,ddbe0681-8da6-4b47-b646-9d698f6dc374,-76.642331,39.2990635
+170,171,0,884,Eager Street Academy,401 E Eager St,6 - 12, ,0,0,6 - 12,21202,Alternative,c92ddcfb-eae6-4c99-9e78-5519932ac83b,-76.609665,39.301199
+171,172,0,729,Angela Y. Davis Leadership Academy,2801 N Dukeland Street, , ,0,0, ,21216, ,7ae0f612-53a1-41bd-a452-51cc68af1dd7,-76.66518824178094,39.32172070744879
+172,173,0,877,P-TECH at Paul Laurence Dunbar High School,1400 Orleans Street, , ,0,0, ,21231, ,fd8449c2-159e-4feb-a292-1d0bd7d4f3cd,-76.5987128,39.2952989
+173,174,0,875,P-TECH at Carver Vocational-Technical High School,2201 Presstman Street, , ,0,0, ,21216, ,52ea50d6-38a5-41e0-bfca-e0c1a0a47259,-76.65268861076069,39.30445485
+174,175,0,0,P-TECH at New Era Academy,2700 Seamon Avenue, , ,0,0, ,21225, ,c2196e73-7b39-4599-b5d0-5e09d86de841,-76.62077656192488,39.25361812801161
