@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import time
 
-API_KEY = "37c090a774f94f47afa8a5f9e5b94a0d"
+API_KEY = #YOUR API KEY GOES HERE. Create a free account at https://www.geoapify.com. A free account gets 6000 geocodes daily
 
 df = pd.read_csv("Baltimore_City_Schools.csv")
 
